@@ -276,4 +276,20 @@ header {
   color: red;
 }
 
+/*secondary page title */
+
+.page-title {
+  color: #fce138;
+  border-bottom: 4px;
+  border-bottom-style: solid;
+  border-bottom-color: #fce138;
+  padding: 0 80px 15px 80px;
+  font-weight: normal;
+  font-size: 42px;
+  font-style: italic;
+}
+
+.page-title h2 {
+  display: inline-block;
+}
 
